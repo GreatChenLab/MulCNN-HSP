@@ -6,8 +6,11 @@ The multi-scale convolutional neural networks-based deep learning model, called 
 
 ## Must installed packages or softwares
 Pandas==0.23.4
+
 Numpy==1.19.0
+
 Tensorflow==2.0.0
+
 Skikit-learn==1.0.2
 
 ## Webserver
