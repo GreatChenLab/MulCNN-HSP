@@ -21,7 +21,7 @@ Skikit-learn==1.0.2
 2. test.ipynb is the prediction of HSP identification and classification.
 ## Data
 HSPs can be categorized into six families, i.e. HSP20, HSP40, HSP60, HSP70, HSP90, and HSP100. Different families of HSPs have distinct roles. Classification of HSP families is of great significance for accurately understanding their biological functions.
-## Model
+## Models
 The file "model" contains the final model weights for the independent tests. 
-1. t_model.h5 is the final model weight for HSP identification; 
-2. y_model.h5 is the final model weight for HSP classification.
+1. hsp_model.h5 is the final model weight for HSP identification; 
+2. hsp_class_model.h5 is the final model weight for HSP classification.
